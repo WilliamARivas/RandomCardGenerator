@@ -36,4 +36,5 @@ img.two {
   height: 30%;
   width: 35%;
   padding: 20px;
+  transform: scaleY(-1);
 }
